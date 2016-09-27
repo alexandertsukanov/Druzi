@@ -1,0 +1,298 @@
+
+
+
+* {
+
+    background-color: #eeeeee;
+
+
+}
+
+
+
+
+.header{
+
+    text-align: left;
+    border-radius: 4px;
+    background-color: #44944A;
+    width: 100%;
+    height: 40px;
+    
+    
+}
+
+
+.logo{
+
+border-radius: 3px;
+    border: 3px solid #44944A;
+    width: 350px;
+    height: 200px;
+    text-align: center;
+    top:0 ;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    margin: 3px auto;
+    position: absolute;
+    color: #44944A;
+
+}
+
+
+.login{
+
+
+    border: 4px solid #44944A;
+    text-align: center;
+    font-size: 30px;
+    border-radius: 10px;
+    width: 500px;
+    height: 400px;
+    background-color: #44944A;
+    position: absolute;
+z-index: 0;
+    top: 170px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+
+
+
+}
+
+
+.login li{
+
+
+    border-radius: 3px;
+    list-style-type: none;
+
+}
+
+.login label{
+
+    border-radius: 20px;
+    color:  #44944A;
+
+
+}
+
+.login input{
+
+
+    border-radius: 3px;
+    border: 2px solid #44944A;
+    background-color: whitesmoke;
+    margin-bottom: 5px;
+    height: 35px;
+    font-size: 24px;
+
+}
+
+.login input:hover{
+
+
+    background-color: papayawhip;
+
+
+}
+
+.login input:focus{
+
+
+    background-color: papayawhip;
+
+
+}
+
+.login button{
+
+
+    transition: 2s;
+    border-radius: 5px;
+    border: 3px solid #167626;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    background-color: #44944A;
+    color: white;
+    font-size: 30px;
+
+}
+
+.login button:hover{
+
+    color: darkred;
+    background-color: aquamarine;
+    border: 3px solid darkred;
+
+}
+
+#registerb{
+
+    transition: 2s;
+    border-radius: 3px;
+    margin-top: 5px;
+    background-color: #44944A;
+    font-size: 35px;
+    text-decoration: none;
+    color: white;
+
+
+}
+
+#registerb:hover{
+
+
+
+    background-color: aquamarine;
+    text-decoration: none;
+    color: darkred;
+
+
+
+}
+
+.reg{
+
+
+
+
+    border: 4px solid #44944A;
+    text-align: center;
+    font-size: 30px;
+    font-family: Modern;
+    border-radius: 10px;
+    width: 500px;
+    height: 650px;
+    background-color: #44944A;
+    position: relative;
+top: 170px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+.reg label{
+
+    border-radius: 20px;
+    color: #44944A;
+
+
+}
+
+.reg input{
+
+
+    border-radius: 3px;
+    border: 2px solid #44944A;
+    background-color: whitesmoke;
+    margin-bottom: 5px;
+    height: 35px;
+    font-size: 24px;
+
+}
+
+
+ .reg input:hover{
+
+     background-color: papayawhip;
+
+
+
+ }
+.reg input:focus{
+
+
+    background-color: papayawhip;
+
+
+}
+
+.reg li{
+
+
+    border-radius: 3px;
+    list-style-type: none;
+
+}
+
+.reg button{
+
+
+    transition: 2s;
+border-radius: 5px;
+    border: 3px solid #167626;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+ background-color: #44944A;
+    color: white;
+    font-size: 30px;
+
+}
+
+.reg button:hover{
+
+    color: darkred;
+    background-color: aquamarine;
+    border: 3px solid darkred;
+
+}
+
+
+.success{
+
+
+    border: 4px solid deepskyblue;
+    text-align: center;
+    font-size: 30px;
+    border-radius: 10px;
+    width: 500px;
+    height: 200px;
+    background-color: lightskyblue;
+    position: absolute;
+    z-index: 0;
+    top: 170px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+
+
+
+}
+
+.success p{
+
+    background-color: lightskyblue;
+
+}
+
+#successmain{
+
+    transition: 2s;
+    border-radius: 3px;
+    margin-top: 5px;
+background-color: skyblue;
+    font-size: 34px;
+    text-decoration: none;
+    color: mediumblue;
+
+
+}
+
+#successmain:hover{
+
+
+
+    background-color: aquamarine;
+    text-decoration: none;
+    color: darkred;
+
+
+
+}

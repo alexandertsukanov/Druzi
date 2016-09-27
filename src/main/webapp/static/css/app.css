@@ -1,0 +1,166 @@
+@charset "UTF-8";
+
+.druzi {
+    background-color: #eae8e7;
+    color: #222;
+}
+
+
+.druzi .bordered{
+
+
+    border-radius: 2px;
+    margin: 2px;
+    padding: 2px;
+    border: 1px solid gainsboro;
+
+
+}
+
+.druzi .photo {
+    border-top-right-radius: 4px;
+    border-top-left-radius: 4px;
+    width: 100%;
+}
+
+
+
+.druzi .contacts {
+    margin-top: 30px;
+}
+
+.druzi .contacts i {
+
+    font-size: 1.4em;
+    display: block;
+    float: left;
+    margin-right: 5px;
+    width: 25px;
+}
+
+.druzi .contacts a{
+
+    height: 40px;
+
+}
+
+.druzi .hobbies {
+    text-align: center;
+}
+
+.druzi .hobbies i {
+    font-size: 1.8em;
+    margin: 0 5px;
+    color: #767270;
+}
+
+.druzi .hobbies .table>tbody>tr>td {
+    vertical-align: middle;
+}
+
+.druzi .certificates .panel-body {
+    text-align: center;
+}
+
+.druzi .certificates .thumbnail {
+    width: 160px;
+    margin: 0 auto;
+    display: inline-block;
+}
+
+.druzi a.edit-block {
+    color: #fffaf0;
+    float: right;
+    font-size: 0.9em;
+    text-decoration: underline;
+}
+
+.druzi .skill-delim {
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    border-bottom: 1px solid #eee;
+}
+
+.druzi .skill-delim .alert {
+    margin-bottom: 0;
+}
+
+.druzi .skill-item textarea {
+    margin-right: 20px;
+}
+
+.druzi .skill-item .value-container {
+    position: relative;
+}
+
+.druzi .skill-item .value-container .close {
+    position: absolute;
+    right: 15px;
+    top:-5px;
+}
+
+.smallimg{
+
+    background-size: contain;
+    width: 100px;
+    height: 100px;
+
+
+}
+
+.register{
+
+    font-size: 100% ;
+    padding: 5%;
+    margin: 10% auto;
+    width: 40%;
+    display: block;
+    background-color: white ;
+    border-radius: 5px ;
+    border: 3px solid #337ab7;
+
+}
+
+.register h1{
+
+    font-size: 2em ;
+    word-wrap: break-word;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    -o-hyphens: auto;
+    hyphens: auto;
+
+}
+
+#regimg{
+
+    top: 0.5%;
+    position: absolute;
+    left: 85%;
+    display: block;
+    width: 15%;
+    height: auto;
+
+
+}
+
+.nav-tabs > li, .nav-pills > li {
+    float:none;
+    display:inline-block;
+    *display:inline; /* ie7 fix */
+    zoom:1; /* hasLayout ie7 trigger */
+}
+
+.nav-tabs, .nav-pills {
+    text-align:center;
+}
+
+
+
+
+
+
+
+
