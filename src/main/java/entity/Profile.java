@@ -23,7 +23,7 @@ import org.joda.time.Years;
 /**
  * 
  * @author alexander
- * @see http://alexander.net
+ *
  */
 @Entity
 @Table(name = "profile")

@@ -7,7 +7,7 @@ import java.io.Serializable;
 /**
  * 
  * @author alexander
- * @see http://alexander.net
+ *
  */
 @Entity
 @Table(name="certificate")

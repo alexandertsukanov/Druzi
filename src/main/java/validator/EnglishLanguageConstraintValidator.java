@@ -8,7 +8,7 @@ import javax.validation.ConstraintValidatorContext;
 /**
  * 
  * @author alexander
- * @see http://alexander.net
+ *
  */
 public class EnglishLanguageConstraintValidator implements ConstraintValidator<EnglishLanguage, String>{
 	

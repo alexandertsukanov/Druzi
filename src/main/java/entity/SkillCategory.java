@@ -8,7 +8,7 @@ import javax.persistence.Table;
 /**
  * 
  * @author alexander
- * @see http://alexander.net
+ *
  */
 @Entity
 @Table(name="skill_category")

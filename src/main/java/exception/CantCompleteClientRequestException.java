@@ -3,7 +3,7 @@ package exception;
 /**
  * 
  * @author alexander
- * @see http://alexander.net
+ *
  */
 public class CantCompleteClientRequestException extends RuntimeException {
 	private static final long serialVersionUID = -2220394963797849800L;

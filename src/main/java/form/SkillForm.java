@@ -10,7 +10,7 @@ import java.util.List;
 /**
  * 
  * @author alexander
- * @see http://alexander.net
+ *
  */
 public class SkillForm implements Serializable {
 	private static final long serialVersionUID = 4135568197764740034L;

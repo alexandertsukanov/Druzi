@@ -16,7 +16,7 @@ import java.util.List;
 /**
  *  
  * @author alexander
- * @see http://alexander.net
+ *
  */
 public interface ProfileRepository extends CrudRepository<Profile, Long> {
 

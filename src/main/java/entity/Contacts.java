@@ -9,7 +9,7 @@ import java.io.Serializable;
 /**
  * 
  * @author alexander
- * @see http://alexander.net
+ *
  */
 @Embeddable
 @Access(AccessType.FIELD)

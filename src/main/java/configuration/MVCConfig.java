@@ -19,7 +19,7 @@ import org.springframework.web.servlet.view.JstlView;
  * https://www.luckyryan.com/2013/02/07/migrate-spring-mvc-servlet-xml-to-java-config/
  *
  * @author alexander
- * @see http://alexander.net
+ *
  */
 @Configuration
 @EnableWebMvc

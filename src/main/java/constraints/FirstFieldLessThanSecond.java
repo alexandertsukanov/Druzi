@@ -14,7 +14,7 @@ import static java.lang.annotation.RetentionPolicy.RUNTIME;
  * 
  * 
  * @author alexander
- * @see http://alexander.net
+ *
  */
 @Target({ TYPE, ANNOTATION_TYPE })
 @Retention(RUNTIME)

@@ -9,7 +9,7 @@ import java.sql.Date;
 /**
  * 
  * @author alexander
- * @see http://alexander.net
+ *
  */
 @Entity
 @Table(name = "practic")

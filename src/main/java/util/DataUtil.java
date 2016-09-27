@@ -8,7 +8,7 @@ import java.util.Random;
 /**
  * 
  * @author alexander
- * @see http://alexander.net
+ *
  */
 public class DataUtil {
 

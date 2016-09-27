@@ -10,7 +10,7 @@ import java.sql.Date;
 /**
  * 
  * @author alexander
- * @see http://alexander.net
+ *
  */
 @MappedSuperclass
 public abstract class AbstractFinishDateEntity<T> extends AbstractEntity<T> {

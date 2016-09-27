@@ -6,7 +6,7 @@ import javax.persistence.Converter;
 /**
  * 
  * @author alexander
- * @see http://alexander.net
+ *
  */
 public enum LanguageType {
 

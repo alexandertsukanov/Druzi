@@ -19,7 +19,7 @@ import java.util.Properties;
 /**
  * 
  * @author alexander
- * @see http://alexander.net
+ *
  */
 @Configuration
 @PropertySource("classpath:application.properties")

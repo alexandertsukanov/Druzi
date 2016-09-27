@@ -6,7 +6,7 @@ import org.apache.commons.lang.builder.ToStringStyle;
 /**
  * 
  * @author alexander
- * @see http://alexander.net
+ *
  */
 public abstract class AbstractModel {
 
