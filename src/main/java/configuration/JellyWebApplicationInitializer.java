@@ -26,7 +26,7 @@ import org.springframework.web.servlet.DispatcherServlet;
 
 /**
  *
- * @author alexander
+ * @author tsukanov
  *
  */
 public class JellyWebApplicationInitializer implements WebApplicationInitializer {

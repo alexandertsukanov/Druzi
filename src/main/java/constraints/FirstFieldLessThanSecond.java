@@ -13,7 +13,7 @@ import static java.lang.annotation.RetentionPolicy.RUNTIME;
 /**
  * 
  * 
- * @author alexander
+ * @author tsukanov
  *
  */
 @Target({ TYPE, ANNOTATION_TYPE })

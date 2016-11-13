@@ -108,10 +108,6 @@ public class EditProfileController {
 
 
 
-
-
-
-
     //REGISTER
     @RequestMapping(value = "/register", method = RequestMethod.GET)
 

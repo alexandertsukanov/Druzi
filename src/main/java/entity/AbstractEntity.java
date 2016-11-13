@@ -6,7 +6,7 @@ import java.io.Serializable;
 
 /**
  * 
- * @author alexander
+ * @author tsukanov
  *
  */
 public abstract class AbstractEntity<T> extends AbstractModel implements Serializable {

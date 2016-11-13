@@ -2,7 +2,7 @@ package entity;
 
 /**
  * 
- * @author alexander
+ * @author tsukanov
  *
  */
 public interface ProfileEntity {

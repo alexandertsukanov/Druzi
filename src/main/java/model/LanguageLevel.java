@@ -5,7 +5,7 @@ import javax.persistence.Converter;
 
 /**
  *
- * @author alexander
+ * @author tsukanov
  *
  */
 public enum LanguageLevel {

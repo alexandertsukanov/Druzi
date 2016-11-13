@@ -18,7 +18,7 @@ import java.util.Properties;
 
 /**
  * 
- * @author alexander
+ * @author tsukanov
  *
  */
 @Configuration

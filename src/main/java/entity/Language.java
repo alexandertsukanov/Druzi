@@ -20,7 +20,7 @@ import java.io.Serializable;
 
 /**
  * 
- * @author alexander
+ * @author tsukanov
  *
  */
 @Entity

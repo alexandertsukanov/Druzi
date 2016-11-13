@@ -5,7 +5,7 @@ import org.springframework.data.repository.CrudRepository;
 
 /**
  * 
- * @author alexander
+ * @author tsukanov
  *
  */
 public interface ProfileRestoreRepository extends CrudRepository<ProfileRestore, Long> {

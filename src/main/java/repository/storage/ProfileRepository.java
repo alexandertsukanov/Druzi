@@ -15,7 +15,7 @@ import java.util.List;
 
 /**
  *  
- * @author alexander
+ * @author tsukanov
  *
  */
 public interface ProfileRepository extends CrudRepository<Profile, Long> {

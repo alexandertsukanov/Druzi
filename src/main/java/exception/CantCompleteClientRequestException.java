@@ -2,7 +2,7 @@ package exception;
 
 /**
  * 
- * @author alexander
+ * @author tsukanov
  *
  */
 public class CantCompleteClientRequestException extends RuntimeException {

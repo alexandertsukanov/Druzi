@@ -7,7 +7,7 @@ import javax.persistence.Table;
 
 /**
  * 
- * @author alexander
+ * @author tsukanov
  *
  */
 @Entity

@@ -9,7 +9,7 @@ import java.util.List;
 
 /**
  * 
- * @author alexander
+ * @author tsukanov
  *
  */
 public class SkillForm implements Serializable {
