@@ -24,13 +24,16 @@ public class RegistrationForm implements Serializable {
     @EnglishLanguage(withNumbers=false, withSpechSymbols=false)
     private String lastName;
 
+    @NotNull
     private String email;
 
+    @NotNull
     private String phone;
 
     @PasswordStrength
     private String password;
 
+    @NotNull
     private String confirmPassword;
 
 

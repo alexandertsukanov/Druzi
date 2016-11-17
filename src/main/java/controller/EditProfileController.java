@@ -54,8 +54,6 @@ public class EditProfileController {
         return "edit/skills";
     }
 
-
-
     @RequestMapping(value="/edit/main", method=RequestMethod.GET)
     public String getEditMain(Model model){
 

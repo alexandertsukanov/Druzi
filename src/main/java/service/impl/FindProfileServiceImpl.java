@@ -2,6 +2,7 @@ package service.impl;
 
 import entity.Course;
 import entity.Profile;
+import entity.Skill;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Sort;
 import org.springframework.stereotype.Service;
@@ -10,15 +11,14 @@ import service.FindProfileService;
 
 import java.util.List;
 
-
-
     @Service
     public class FindProfileServiceImpl implements FindProfileService {
 
-        @Autowired
-        private ProfileRepository profileRepository;
+    @Autowired
+    private ProfileRepository profileRepository;
 
-
+    @Autowired
+    private SkillRepository skillRepository;
 
     @Override
     public List<Profile> findAll(Sort sort) {
@@ -28,8 +28,8 @@ import java.util.List;
     @Override
         public Profile findByUid(String uid) {
             return profileRepository.findByUid(uid);
-
         }
+
 
     }
 

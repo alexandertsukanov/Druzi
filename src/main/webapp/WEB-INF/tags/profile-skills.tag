@@ -16,7 +16,7 @@
 			<thead>
 			<tr>
 				<th>
-						${category[skills.category].category}
+						${skills.category}
 			</th>
 			</tr>
 			</thead>
