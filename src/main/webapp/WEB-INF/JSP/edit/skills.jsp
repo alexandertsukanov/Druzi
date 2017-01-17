@@ -27,7 +27,7 @@
 					<a href="javascript:void(0);">+ Add skill</a>
 				</div>
 			</div>
-			<hr />
+			<hr/>
 			<div class="row">
 				<div class="col-xs-12 text-center">
 					<input type="submit" class="btn btn-primary" value="Save">
